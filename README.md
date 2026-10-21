@@ -1,2 +1,2 @@
-# Google-Collaboratory-
+# Google Collaboratory
 Google Collaboratory for Projects
